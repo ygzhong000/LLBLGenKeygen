@@ -1,0 +1,25 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<Reference URI="#LLBLGenPro5License">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<DigestValue>y22EjA0rU2ldpL56S9AQX7AR+wg=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>oXXSpl5u9nXFbByBZxT5prxSOAeioaNPWTHeZOuP7t9J3lP1rY3JwrlviyT10l4VM5/62261nEIBENKxLA7tVRzN7TvaKirfm7hzW4QPEDu8aKst/nkL3qDXQ2fsP1sDtvhyijpZ+fwuITVZ0uoWak+O4qVALR75fTlC9aI1fh8=</SignatureValue>
+<Object Id="LLBLGenPro5License">
+<LLBLGenProLicense xmlns="">
+<LicenseeInfo>
+<Licensee>irDevelopers.Com</Licensee>
+<Company>irDevelopers.Com</Company>
+<Country>Germany</Country>
+<LicenseNr>1</LicenseNr>
+</LicenseeInfo>
+<LicenseType>2</LicenseType>
+<LicenseCreationTime>636097451242290488</LicenseCreationTime>
+<ExpirationDate><Month>10</Month><Day>12</Day><Year>2099</Year></ExpirationDate>
+<SubscriptionEndDate><Month>10</Month><Day>12</Day><Year>2099</Year></SubscriptionEndDate>
+</LLBLGenProLicense>
+</Object>
+</Signature>
